@@ -1,0 +1,3 @@
+[submodule "NavMesh"]
+	path = NavMesh
+	url = git@github.com:lukeslater0961/NavMesh.git
